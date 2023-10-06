@@ -1,0 +1,10 @@
+C:\Users\Alexandros\Desktop\drivers\MFA\bin\Release\MFA.exe.config
+C:\Users\Alexandros\Desktop\drivers\MFA\bin\Release\MFA.exe
+C:\Users\Alexandros\Desktop\drivers\MFA\bin\Release\MFA.pdb
+C:\Users\Alexandros\Desktop\drivers\MFA\obj\Release\MFA.csproj.AssemblyReference.cache
+C:\Users\Alexandros\Desktop\drivers\MFA\obj\Release\MFA.Properties.Resources.resources
+C:\Users\Alexandros\Desktop\drivers\MFA\obj\Release\MFA.Resource1.resources
+C:\Users\Alexandros\Desktop\drivers\MFA\obj\Release\MFA.csproj.GenerateResource.cache
+C:\Users\Alexandros\Desktop\drivers\MFA\obj\Release\MFA.csproj.CoreCompileInputs.cache
+C:\Users\Alexandros\Desktop\drivers\MFA\obj\Release\MFA.exe
+C:\Users\Alexandros\Desktop\drivers\MFA\obj\Release\MFA.pdb
